@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: >-
+  If you use or adapt this prompt collection, please cite the repository using
+  the metadata below.
+title: Awesome Wan 3.0 Video Prompts
+type: dataset
+authors:
+  - name: wan3video.co
+version: 1.0.0
+date-released: 2026-08-27
+url: https://wan3video.co/
+repository-code: https://github.com/laofa668/awesome-wan3-video-prompts
+license: CC-BY-4.0
+keywords:
+  - Wan 3.0
+  - AI video
+  - video prompts
+  - prompt engineering
+  - text-to-video
+  - image-to-video
+abstract: >-
+  A curated collection of structured Wan 3.0 prompts for cinematic scenes,
+  product commercials, character animation, transformations, camera movement,
+  and multi-shot storytelling.
+

@@ -45,11 +45,14 @@ and video instructions separate instead of combining them into one block.
    right to use that media.
 5. Generate, review, and refine. Outputs may vary between runs, model versions,
    settings, and source materials.
+## More Wan 3.0 Resources
 
+- [Wan 3.0 Prompt Guide](https://wan3video.co/wan-3-0-prompts) — prompt structures, examples, and practical techniques.
+- [Complete Wan 3.0 Guide](https://wan3video.co/wan-3-0-guide) — an overview of Wan 3.0 capabilities and video generation workflows.
 ## Contributing
 
 Contributions of useful, readable prompts are welcome. See
-[CONTRIBUTING.md](CONTRIBUTING.md) for the submission format and content
+
 requirements.
 
 ## Project Disclaimer
@@ -74,4 +77,5 @@ Adapt a prompt from this collection and
 Original content in this repository is available under the
 [Creative Commons Attribution 4.0 International License](LICENSE). Third-party
 names and trademarks remain the property of their respective owners.
+[Complete Wan 3.0 Guide](https://wan3video.co/wan-3-0-guide)
 

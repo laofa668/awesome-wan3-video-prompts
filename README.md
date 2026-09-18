@@ -46,9 +46,11 @@ and video instructions separate instead of combining them into one block.
 5. Generate, review, and refine. Outputs may vary between runs, model versions,
    settings, and source materials.
 ## More Wan 3.0 Resources
+Looking for more practical guidance beyond the prompt examples in this repository?
 
-- [Wan 3.0 Prompt Guide](https://wan3video.co/wan-3-0-prompts) — prompt structures, examples, and practical techniques.
-- [Complete Wan 3.0 Guide](https://wan3video.co/wan-3-0-guide) — an overview of Wan 3.0 capabilities and video generation workflows.
+- [Wan 3.0 Prompt Guide](https://wan3video.co/wan-3-0-prompts) — prompt structures, tested examples, and practical techniques for building clearer AI video prompts.
+- [Complete Wan 3.0 Guide](https://wan3video.co/wan-3-0-guide) — an overview of Wan 3.0 capabilities, workflows, and common use cases.
+- [Wan 3.0 Review](https://wan3video.co/wan-3-0-review) — real generation tests, observed strengths, failure cases, and practical takeaways.
 ## Contributing
 
 Contributions of useful, readable prompts are welcome. See
